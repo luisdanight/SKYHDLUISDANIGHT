@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 group-title="CANAIS DOCUMENTARIOS" tvg-logo="https://cdn.mitvstatic.com/channels/br_animal-planet-hd_m.png",ANIMAL PLANET HD¹
+http://tam90a.xyz:8080/Ozgurulas/rdFxKAXm81/328860
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://digitalapi.sky.com.br/logos/channels/137.png",CANAL SONY FHD H265¹
+https://botallen.live/t/80/master.m3u8?t=4fc65a3b0fcbd7b5da495940d8919e571af19072f28679d23056243a078f055f2acd78bdf1a1165634b23e8453a483a3fdc8cffda493d0ec88f026
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://digitalapi.sky.com.br/logos/channels/137.png",CANAL SONY HD¹
+http://tv.zaintv.net:80/svb899/vbm886/108250
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://i.imgur.com/fcp3w4Z.png",CINE 01²
+http://tv.iprealtv.net:8000/ArgemiroVaron/VARON818/80752
+#EXTINF:-1 group-title="CINE SKY" tvg-logo="https://i.imgur.com/fcp3w4Z.png",CINE 04²
+http://lista.lorddark.club:80/2926512065/9274898468/1144
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/112.png",CINEMAX FHD H265 ²
+http://ae2.aatvbox.club:8880/wh24m0748/sYLHVcCdut/64348
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/112.png",CINEMAX FHD H265¹
+http://mains.vip:2086/8386592806/2543983/92613
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/112.png",CINEMAX HD ²
+http://m3ulink.com:7899/76valleyfood1/sasbgVOE/8598
+#EXTINF:-1 group-title="CANAIS NOTICIA" tvg-logo="https://skycms.s3.amazonaws.com/images/42693528/cnnbrasil-vermelho.jpg",CNN Brasil FHD¹
+http://dns.clientetv.net:8080/Lucas2019/LO2019/22224
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",Desenhos Disney 24HRS¹
+http://95.214.232.251:8080/ricky123/ricky123/145880
+#EXTINF:-1 group-title="CANAIS 4K" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",DISCOVERY CHANNEL 4K
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=Povsman&key=Bb9r2bM
+#EXTINF:-1 group-title="CANAIS DOCUMENTARIOS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",DISCOVERY CHANNEL FHD H264¹
+http://itsidletime.xyz:25461/86947944/42535672/56422
+#EXTINF:-1 group-title="CANAIS DOCUMENTARIOS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",DISCOVERY CHANNEL FHD H265
+http://1581.f5.si:8000/alvaromartins962/29nmgivmKv/132329
+#EXTINF:-1 group-title="CANAIS DOCUMENTARIOS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",DISCOVERY CHANNEL FHD²
+http://line.crystalott.net:80/HGZEZ6XDSU/PICVKHEQRL/7758
+#EXTINF:-1 group-title="CANAIS DOCUMENTARIOS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",Discovery Channel FHD² H265
+http://rocksat.ddns.net:25461/HPkgutHUKj0FGyQ/vZ6Kz7GqDH5PZ9L/115295
+#EXTINF:-1 group-title="CANAIS DOCUMENTARIOS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png",DISCOVERY CHANNEL HD²
+http://assistirpainel.ddns.net:8880/34125123652/3412512365/2308
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png",FOX PREMIUM 1 FHD H264 (LEGENDADOS)
+http://1581.f5.si:8000/licpedroquintanilla/SI4RI24/5128
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png",FOX PREMIUM 1 HD (LEGENDADO)
+http://pfsv.io:80/25232709/10629/277
+#EXTINF:-1 group-title="CANAIS ESPORTE" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/195.png",FOX SPORTS 2 SD
+http://xdgo.live:8080/76iverson3/pyfFcCgTNj/1774
+#EXTINF:-1 group-title="CANAIS 4K" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/194.png",FOX SPORTS 4K
+http://disfruta.net:80/vBpJPxSpU9/VVG4CP12gs/1099
+#EXTINF:-1 group-title="CANAIS LEGENDADOS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png",HBO + PLUS HD (LEGENDADO)
+http://1581.f5.si:8000/jaimeduquebass/4FEQTIJ/2793
+#EXTINF:-1 group-title="CANAIS HBO" tvg-logo="https://skycms.s3.amazonaws.com/images/37907079/Logo.HBO2.png",HBO 2 FHD H264¹
+http://dns.clientetv.net:8080/AlexandreCL2/Cly832091/10850
+#EXTINF:-1 group-title="CANAIS HBO" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/124.png",HBO FAMILY FHD H264¹
+http://dns.clientetv.net:8080/ZsMMATiIgM/41veEx4xHy/2142
+#EXTINF:-1 group-title="CANAIS MUSICA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png",MULTISHOW FHD²
+http://dnsx.co:80/x634634/235233/72179
+#EXTINF:-1 group-title="CANAIS MUSICA" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png",MULTISHOW HD²
+http://natv.pw:80/Marcooani6358/eBwJi8yef3/48692
+#EXTINF:-1 group-title="CANAIS INFANTIS" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/449.png",NATGEO KIDS HD²
+http://ipeteve.com/php/SR_REGIO050321/tv4.php?ch=NATGEOKIDS_SD&format=.m3u8
+#EXTINF:-1 group-title="CANAIS DOCUMENTARIOS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png",NATIONAL GEOGRAPHY FHD H265
+http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNationalGeographicRu&login=dima1949&key=fkzMPW6
+#EXTINF:-1 group-title="CANAIS DOCUMENTARIOS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/NatcionalGeographic.png",NATIONAL GEOGRAPHY HD¹
+http://diretogo.com:80/k359854x/2708561/10047260
+#EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 FHD²
+http://assistirpainel.ddns.net:8880/gc6hftne9x/7k2z459bac/2224
+#EXTINF:-1 group-title="CANAIS PREMIERE" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png",PREMIERE 2 FHD¹
+http://udq.me:80/WW3dPGcKcQ/1162706429/837
+#EXTINF:-1 group-title="CANAIS SPORTV" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/38.png",SPORTV 2 FHD²
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="CANAIS SPORTV" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/38.png",SPORTV 2 FHD¹
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="CANAIS SPORTV" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/38.png",SPORTV 2 HD²
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="CANAIS SPORTV" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/38.png",SPORTV 2 HD¹
+http://clicktuga.xyz:80/XPTOadriano_franco/lowqszIS2P/65
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/539.png",WARNER CHANNEL HD²
+http://tv.factoryiptv.com:80/kGMXEc4c3/phantomiptv/36930
+#EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/539.png",WARNER CHANNEL HD¹
+http://tv.factoryiptv.com:80/kGMXEc4c3/phantomiptv/51308
